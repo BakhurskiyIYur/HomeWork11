@@ -6,11 +6,12 @@
   > <img src="pic/0_2.JPG" align="center" />
 
 * Создать индекс к какой-либо из таблиц вашей БД
-  > <img src="pic/1.JPG" align="center" />
+  > <img src="pic/1_1.JPG" align="center" />
 * Прислать текстом результат команды explain, в которой используется данный индекс
-  > <img src="pic/2.JPG" align="center" />
+  > <img src="pic/2_1.JPG" align="center" />
 * Реализовать индекс для полнотекстового поиска
   > <img src="pic/3_1.JPG" align="center" />
+  g
   > <img src="pic/3_2.JPG" align="center" />
 * Реализовать индекс на часть таблицы или индекс на поле с функцией
   > <img src="pic/4_1.JPG" align="center" />
